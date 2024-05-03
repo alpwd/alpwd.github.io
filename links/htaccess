@@ -1,2 +1,0 @@
-RewriteEngine on
-RewriteRule ^/github/alpha$ https://github.com/alphachannelworld [R=301,L]
