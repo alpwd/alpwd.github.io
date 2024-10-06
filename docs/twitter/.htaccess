@@ -1,9 +1,0 @@
-<IfModule mod_rewrite.c>
-
-RewriteEngine on
-
-RewriteBase /
-
-RewriteRule ^twitter/(.*)$ /x/$1 [R=301,L]
-
-</IfModule>
